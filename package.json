@@ -1,0 +1,13 @@
+{
+  "name": "cine-api",
+  "version": "1.0.0",
+  "description": "API REST para administración de películas favoritas de trabajadores y colaboradores en Iplacex",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Iplacex - Claudio Miranda",
+  "license": "Apache-2.0"
+}

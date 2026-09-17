@@ -1,0 +1,7 @@
+{
+  "idPelicula": "6aa20feca5e7c1cc6c97d249",
+  "nombre": "Leonardo DiCaprio",
+  "edad": 51,
+  "estaRetirado": false,
+  "premios": ["Oscar"]
+}
